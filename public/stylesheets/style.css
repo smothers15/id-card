@@ -71,6 +71,13 @@ address-text p:last-child{
   background-color: #f6f6f6;
 }
 
+img {
+  width: 200px;
+}
+
+.random{
+  font-size: 30px;
+}
 
 
 a {
